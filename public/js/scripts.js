@@ -368,7 +368,7 @@ Version      : 1.8
     $('.tk_countdown_time').each(function() {
         var endTime = $(this).data('time');
         $(this).countdown(endTime, function(tm) {
-            $(this).html(tm.strftime('<span class="counter_box"><span id="days" class="tk_counter days">%D </span><span class="tk_text">Days</span></span><span class="counter_box"><span id="hours" class="tk_counter hours">%H</span><span class="tk_text">Hours</span></span><span class="counter_box"><span id="mins" class="tk_counter minutes">%M</span><span class="tk_text">Minutes</span></span><span class="counter_box"><span id="secs" class="tk_counter seconds">%S</span><span class="tk_text">Seconds</span></span>'));
+            $(this).html(tm.strftime('<span class="counter_box"><span id="days" class="tk_counter days">%D </span><span class="tk_text">Dias</span></span><span class="counter_box"><span id="hours" class="tk_counter hours">%H</span><span class="tk_text">Horas</span></span><span class="counter_box"><span id="mins" class="tk_counter minutes">%M</span><span class="tk_text">Minutos</span></span><span class="counter_box"><span id="secs" class="tk_counter seconds">%S</span><span class="tk_text">Segundos</span></span>'));
         });
     });
 	
