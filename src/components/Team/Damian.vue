@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
     <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-3 col-sm-6 offset-sm-3">
         <div class="bg-white radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.6s"  style="height: 335px">
