@@ -1,6 +1,6 @@
 <template>
     <!-- START SECTION TEAM -->
-    <section class="section_team bg_gray">
+    <section id="team-section" class="section_team bg_gray">
         <div class="divider large_divider"></div>
         <div class="container">
             <div class="row">

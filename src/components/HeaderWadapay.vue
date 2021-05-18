@@ -14,11 +14,9 @@
                     <ul class="navbar-nav m-auto">
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.2s"><a class="nav-link page-scroll nav_item" href="#about">About</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.3s"><a class="nav-link page-scroll nav_item" href="#why">Why</a></li>
-                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.4s"><a class="nav-link page-scroll nav_item" href="#token">Token</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.5s"><a class="nav-link page-scroll nav_item" href="#roadmap">Road Map</a></li>
-                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.6s"><a class="nav-link page-scroll nav_item" href="#team">Team</a></li>
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.6s"><a class="nav-link page-scroll nav_item" href="#team-section">Team</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.7s"><router-link to="/faq" class="nav-link page-scroll nav_item" href="#faq">FAQ</router-link></li>
-                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="nav-link page-scroll nav_item" href="#contact">Contact</a></li>
                     </ul>
                 </div>
             </nav>

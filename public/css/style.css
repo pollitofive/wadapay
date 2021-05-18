@@ -634,6 +634,9 @@ button:focus {
 .color-switch .active::after {
     opacity: 1;
 }
+.imagen-banner {
+	background-image: url('../../src/assets/img/home_banner_bg.png');
+}
 .default {
 	background-image: -webkit-linear-gradient(left, #ff67cb 0%,#ffcc67 99%);
 	background-image: linear-gradient(to right, #ff67cb 0%,#ffcc67 99%);
@@ -1730,14 +1733,14 @@ header a:hover,
 }
 .waveTop {
     background-size: 50% 100px;
-	background-image: url('../images/wave.png');
+	background-image: url('../../src/assets/img/wave.png');
 	animation: move_wave_reverse 10s linear infinite;
 	right: 0;
 	left: auto;
 }
 .waveMiddle {
     background-size: 50% 100px;
-	background-image: url('../images/wave.png');
+	background-image: url('../../src/assets/img/wave.png');
     animation: move_wave 10s linear infinite;
 }
 .icon_title {

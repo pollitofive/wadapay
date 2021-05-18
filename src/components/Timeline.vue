@@ -77,6 +77,11 @@
                 </div>
             </div>
         </div>
+        <div class="waveWrapper">
+            <div class="wave waveTop"></div>
+            <div class="wave waveMiddle"></div>
+        </div>
+
     </section>
     <!-- END SECTION TIMELINE -->
 </template>

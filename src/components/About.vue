@@ -1,7 +1,7 @@
 <template>
     
     <!-- START SECTION ABOUT US -->
-    <section id="about">
+    <section id="about" class="imagen-banner">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12 col-sm-12">

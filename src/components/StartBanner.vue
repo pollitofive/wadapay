@@ -32,6 +32,13 @@
                         </div>
                     </div>
                 </div>
+                <div class="vertical_social">
+                    <ul class="list_none d-flex d-lg-block">
+                        <li><a href="https://www.facebook.com/wadapaynet" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/wadapay" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.reddit.com/r/Wadapay" target="_blank"><i class="fa fa-reddit"></i></a></li>
+                    </ul>
+                </div>
         </div>
         <div class="divider small_divider d-none d-lg-block"></div>
         <div class="divider large_divider d-none d-lg-block"></div>
