@@ -23,14 +23,12 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="tabWadapay" role="tabpanel">
                                 <div id="accordion2" class="faq_question">
-                                    <div class="card animation" data-animation="fadeInUp" data-animation-delay="0.4s">
-                                        <div class="card-header" id="headingFive">
-                                            <h6 class="mb-0"> <a data-toggle="collapse" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">How does one acquire bitcoins?</a> </h6>
+                                    <div id="accordion3" class="faq_question">
+                                        <question v-for="question in faq_wadapay.slice(0, 4)" v-bind:key="question.number" :question="question"></question>
+                                        <div style="text-align: center; margin-top: 20px">
+                                            <router-link to="/faq" class="btn btn-default animation animated fadeInUp m-t-20" data-animation="fadeInUp" data-animation-delay="1.4s" style="animation-delay: 1.4s; opacity: 1;">Mas preguntas frecuentes <i class="ion-ios-arrow-thin-right"></i></router-link>
                                         </div>
-                                        <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordion2">
-                                            <div class="card-body"> While it may be possible to find individuals who wish to sell bitcoins in exchange for a credit card or PayPal payment, most exchanges do not allow funding via these payment methods. This is due to cases where someone buys bitcoins with PayPal, and then reverses their half of the transaction. This is commonly referred to as a chargeback.</div>
-                                        </div>
-                                    </div>
+                                </div>	
                                 </div>	
                             </div>
                             <div class="tab-pane fade" id="tabWadaboo" role="tabpanel">
@@ -51,7 +49,8 @@
 </template>
 <script>
 import Question from './Question'
-import questions_wadaboo from '../../data/questions_wadaboo.js'
+import questions_wadapay from '../../data/es/questions_wadapay.js'
+import questions_wadaboo from '../../data/es/questions_wadaboo.js'
 export default {
     name: 'faq',
     components: {
@@ -59,6 +58,7 @@ export default {
     },
     data() {
         return {
+            faq_wadapay: questions_wadapay,
             faq_wadaboo: questions_wadaboo
         }
     }

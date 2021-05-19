@@ -8,8 +8,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-12 col-sm-12 res_md_mt_50 res_sm_mt_20 pt-5 pt-lg-0 order-lg-first">
                     <div class="banner_text_s2 text_md_center">
-                        <h1 class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.1s"><strong>Wadapay</strong> es una innovadora red de pagos empresas y emprendedores </h1>
-                        <p class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.3s">Pensada para pequeños y medianos empresarios que funciona dentro de <strong>Wadaboo</strong></p>
+                        <h1 class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.1s"><strong>Wadapay</strong> es una innovadora red de pagos para empresas y emprendedores </h1>
+                        <p class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.3s">Una moneda nativa de Wadaboo pensada para emprendedores</p>
                         <div class="btn_group animation" data-animation="fadeInUp" data-animation-delay="1.4s"> 
                             <a href="https://wadaboo.com/" target="_blank" class="btn btn-default btn-radius page-scroll"><i class="fa fa-file-word-o"></i>¿Que es Wadaboo?</a> 
                         </div>
