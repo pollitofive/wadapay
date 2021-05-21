@@ -19,19 +19,31 @@
                     <div class="banner_inner token_gradiant position-relative">
                         <div class="tk_countdown transparent_bg token_bg token_circle text-center animation" data-animation="fadeIn" data-animation-delay="1.1s">
                             <div class="banner_text tk_counter_inner">
-                                <div class="tk_countdown_time p-0 transparent_bg box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1.2s" data-time="2021/05/25 00:00:00"></div>
-                                <div class="progress animation" data-animation="fadeInUp" data-animation-delay="1.3s">
-                                <div class="progress-bar progress-bar-striped gradient" role="progressbar" aria-valuenow="46" aria-valuemin="0" aria-valuemax="100" style="width:46%"> 46% </div>
-                                    <span class="progress_label bg-white" style="left: 30%"> <strong> 46,000 BCC </strong></span>
-                                    <span class="progress_label bg-white" style="left: 75%"> <strong> 90,000 BCC </strong></span>
-                                    <span class="progress_min_val">Sale Raised</span>
-                                    <span class="progress_max_val">Soft-caps</span>
+                                <div class="tk_countdown_time p-0 transparent_bg box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1.2s" data-time="2021/05/20 00:00:00"></div>
+                                <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xEE1e22DB567897bB401311B79030344602EABE47&inputCurrency=BNB" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">Comprar Tokens <i class="ion-ios-arrow-thin-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pl-2 pr-2">
+                                    <div class="pr_box">
+                                        <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style="animation-delay: 0.2s; opacity: 1;">Total creado :</h6>
+                                        <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style="animation-delay: 0.4s; opacity: 1;">200.000.000.000 Wadapay</p>
+                                    </div>
                                 </div>
-                                <a href="#" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" >Comprar Tokens <i class="ion-ios-arrow-thin-right"></i></a>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pl-2 pr-2">
+                                    <div class="pr_box">
+                                        <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style="animation-delay: 0.6s; opacity: 1;">Inicio de venta :</h6>
+                                        <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.8s" style="animation-delay: 0.8s; opacity: 1;">20/05/2021 <br>(12:00 PM)</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                
                 <div class="vertical_social">
                     <ul class="list_none d-flex d-lg-block">
                         <li><a href="https://www.facebook.com/wadapaynet" target="_blank"><i class="fa fa-facebook"></i></a></li>

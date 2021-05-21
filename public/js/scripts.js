@@ -257,8 +257,11 @@ Version      : 1.8
 	         },
 	         1199: {
 	             items: 6
-	         }
-	     }
+	         },
+	         1499: {
+				items: 7
+			}
+		}
 	 });
 	 
 	 $('.roadmap_wrap').owlCarousel({
@@ -282,7 +285,10 @@ Version      : 1.8
 	         },
 	         1199: {
 	             items: 5
-	         }
+	         },
+	         1499: {
+				items: 6
+			}
 	     }
 	 });
 	 $('.timeline').owlCarousel({

@@ -16,8 +16,13 @@
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.3s"><a class="nav-link page-scroll nav_item" href="#why">Utilidad</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.5s"><a class="nav-link page-scroll nav_item" href="#roadmap">RoadMap</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.6s"><a class="nav-link page-scroll nav_item" href="#team-section">Team</a></li>
-                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.7s"><router-link to="/faq" class="nav-link page-scroll nav_item" href="#faq">FAQ</router-link></li>
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.7s"><a class="nav-link page-scroll nav_item" href="#faq">FAQ</a></li>
                     </ul>
+                    <ul class="navbar-nav nav_btn align-items-center">
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="btn btn-default btn-radius page-scroll" href="https://charts.bogged.finance/?token=0xEE1e22DB567897bB401311B79030344602EABE47" target="_blank">Gráfico</a></li>
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="btn btn-default btn-radius page-scroll" href="#" target="_blank">Contrato</a></li>
+                    </ul>
+
                 </div>
             </nav>
         </div>

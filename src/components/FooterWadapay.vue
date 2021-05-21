@@ -19,7 +19,7 @@
                             <li class="animation" data-animation="fadeInUp" data-animation-delay="0.7s"><a href="https://www.reddit.com/r/Wadapay" target="_blank"><i class="fa fa-reddit"></i></a></li>
                          </ul>
          		</div>
-                <div class="col-lg-2 col-md-3 col-sm-6 col-auto res_sm_mt_20">
+                <div class="col-lg-2 col-md-3 col-sm-6 col-auto res_sm_mt_20" style="text-align: center">
                 	<h4 class="footer_title_s2 animation" data-animation="fadeInUp" data-animation-delay="0.2s">Social</h4>
                     <ul class="footer_link list_none">
                     	<li class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"><a href="https://t.me/wadapay" target="_blank">Telegram</a></li>
@@ -28,7 +28,7 @@
                     	<li class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"><a href="https://twitter.com/wadapay" target="_blank">Twitter</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-2 col-md-3 col-sm-6 col-auto res_sm_mt_20">
+                <div class="col-lg-2 col-md-3 col-sm-6 col-auto res_sm_mt_20" style="text-align: center">
                 	<h4 class="footer_title_s2 animation" data-animation="fadeInUp" data-animation-delay="0.2s">Links útiles</h4>
                     <ul class="footer_link list_none">
                     	<li class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"><a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xEE1e22DB567897bB401311B79030344602EABE47&inputCurrency=BNB" target="_blank">Comprar WPAY</a></li>
@@ -36,17 +36,15 @@
                         <li class="animation" data-animation="fadeInUp" data-animation-delay="0.6s"><a href="https://wadaboo.com" target="_blank">Wadaboo</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-12 res_md_mt_30 res_sm_mt_20">
-                     <div class="newsletter_form newsletter_form_s2">
-                        <h4 class="footer_title_s2 animation" data-animation="fadeInUp" data-animation-delay="0.2s">SUBSCRIBE Newsletter</h4>
-                        <div class="footer_desc small_text mb-3">
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">By subscribing to our mailing list you will always be update with the latest news from us.</p>
-                        </div>
-                        <form class="subscribe_form animation" data-animation="fadeInUp" data-animation-delay="0.4s">
-                        	<input class="input_outline_white input-rounded" type="text" required placeholder="Enter Email"/>
-                          	<button type="submit" title="Subscribe" class="btn-default btn_icon" name="submit" value="Submit"> <i class="fa fa-send"></i> </button>
-                        </form>
-                    </div>
+                <div class="col-lg-4 col-md-12 res_md_mt_30 res_sm_mt_20" style="text-align: center">
+                	<h4 class="footer_title_s2 animation" data-animation="fadeInUp" data-animation-delay="0.2s">Accesos rápidos</h4>
+                    <ul class="footer_link list_none">
+                    	<li class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"><a href="#about" class="nav-link page-scroll nav_item active">Sobre wadapay</a></li>
+                        <li class="animation" data-animation="fadeInUp" data-animation-delay="0.3s"><a href="#why" class="nav-link page-scroll nav_item active">Utilidad</a></li>
+                        <li class="animation" data-animation="fadeInUp" data-animation-delay="0.6s"><a href="#roadmap" class="nav-link page-scroll nav_item active">Roadmap</a></li>
+                        <li class="animation" data-animation="fadeInUp" data-animation-delay="0.8s"><a href="#team-section" class="nav-link page-scroll nav_item active">Team</a></li>
+                        <li class="animation" data-animation="fadeInUp" data-animation-delay="0.9s"><a href="#faq" class="nav-link page-scroll nav_item active">FAQ</a></li>
+                    </ul>
                 </div>
       		</div>
     	</div>

@@ -24,19 +24,13 @@
                             <div class="tab-pane active" id="tabWadapay" role="tabpanel">
                                 <div id="accordion2" class="faq_question">
                                     <div id="accordion3" class="faq_question">
-                                        <question v-for="question in faq_wadapay.slice(0, 4)" v-bind:key="question.number" :question="question"></question>
-                                        <div style="text-align: center; margin-top: 20px">
-                                            <router-link to="/faq" class="btn btn-default animation animated fadeInUp m-t-20" data-animation="fadeInUp" data-animation-delay="1.4s" style="animation-delay: 1.4s; opacity: 1;">Mas preguntas frecuentes <i class="ion-ios-arrow-thin-right"></i></router-link>
-                                        </div>
-                                </div>	
+                                        <question v-for="question in faq_wadapay" v-bind:key="question.number" :question="question"></question>
+                                    </div>	
                                 </div>	
                             </div>
                             <div class="tab-pane fade" id="tabWadaboo" role="tabpanel">
                                 <div id="accordion3" class="faq_question">
-                                    <question v-for="question in faq_wadaboo.slice(0, 4)" v-bind:key="question.number" :question="question"></question>
-                                    <div style="text-align: center; margin-top: 20px">
-                                        <router-link to="/faq" class="btn btn-default animation animated fadeInUp m-t-20" data-animation="fadeInUp" data-animation-delay="1.4s" style="animation-delay: 1.4s; opacity: 1;">Mas preguntas frecuentes <i class="ion-ios-arrow-thin-right"></i></router-link>
-                                    </div>
+                                    <question v-for="question in faq_wadaboo" v-bind:key="question.number" :question="question"></question>
                                </div>	
                             </div>
                         </div>
