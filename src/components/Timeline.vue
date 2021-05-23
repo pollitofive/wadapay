@@ -24,7 +24,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box complete current">
+                            <div class="timeline_box complete">
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">14 de Mayo de 2021</h6>
@@ -33,7 +33,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box">
+                            <div class="timeline_box complete">
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">20 de Mayo</h6>
@@ -42,7 +42,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box">
+                            <div class="timeline_box current">
                             <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Q3 2021</h6>
