@@ -18,5 +18,26 @@
         "start-sell": "Inicio de venta",
         "date-start-sell": "20/05/2021",
         "hour-start-sell": "(12:00 PM)"
+    },
+    "about": {
+        "title-about": "Sobre Wadaboo",
+        "paragraph1": "Creada para funcionar como medio de pago de Wadaboo y está integrada de manera automática a las ventas individuales de las empresas.",
+        "paragraph2": "De esta manera, Wadaboo tiene una moneda nativa que puede ser usada para que las empresas paguen, cobren, hagan transferencias internacionales o saquen préstamos.",
+        "where-buy": "¿Dónde comprar?"
+    },
+    "why-wadapay": {
+        "title-why": "¿PARA QUE SE VA A UTILIZAR WADAPAY?",
+        "card1": {
+            "title": "COBROS Y PAGOS",
+            "subtitle" : "Todos los usuarios que utilicen nuestra plataforma, Wadaboo, podrán cobrar y pagar con nuestra criptomoneda y automáticamente hacer el Swap a moneda FIAT."
+        },
+        "card2": {
+            "title": "TRANSFERENCIAS INTERNACIONALES",
+            "subtitle" : "Las empresas e emprendedores podrán hacer transferencias internacionales, tanto sea para pagos de servicios o compra de productos."
+        },
+        "card3": {
+            "title": "PRÉSTAMOS",
+            "subtitle" : "En un futuro cercano, las empresas podrán tomar préstamos en WPAY para la compra de maquinarías, productos o expansión."
+        }
     }
 }
