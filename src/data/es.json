@@ -8,6 +8,15 @@
         "graphic": "Gráfico",
         "contract": "Contrato"
     },
-    "project-title": "Wadapay",
-    "welcomeMsg": "es una innovadora red de pagos para empresas y emprendedores "
+    "start-banner": {
+        "project-title": "Wadapay",
+        "start-message": "es una innovadora red de pagos para empresas y emprendedores ",
+        "start-subtitle": "Una moneda nativa de Wadaboo pensada para emprendedores",
+        "what-is-wadaboo": "¿Que es Wadaboo?",
+        "buy-tokens": "Comprar tokens",
+        "total-created": "Total creado",
+        "start-sell": "Inicio de venta",
+        "date-start-sell": "20/05/2021",
+        "hour-start-sell": "(12:00 PM)"
+    }
 }

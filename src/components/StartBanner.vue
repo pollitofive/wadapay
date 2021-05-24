@@ -8,10 +8,10 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-12 col-sm-12 res_md_mt_50 res_sm_mt_20 pt-5 pt-lg-0 order-lg-first">
                     <div class="banner_text_s2 text_md_center">
-                        <h1 class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.1s"><strong>{{ $t("project-title")}} </strong>{{ $t("welcomeMsg")}} </h1>
-                        <p class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.3s">Una moneda nativa de Wadaboo pensada para emprendedores</p>
+                        <h1 class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.1s"><strong>{{ $t("start-banner.project-title")}} </strong>{{ $t("start-banner.start-message")}} </h1>
+                        <p class="animation text-white" data-animation="fadeInUp" data-animation-delay="1.3s">{{ $t("start-banner.start-subtitle")}} </p>
                         <div class="btn_group animation" data-animation="fadeInUp" data-animation-delay="1.4s"> 
-                            <a href="https://wadaboo.com/" target="_blank" class="btn btn-default btn-radius page-scroll"><i class="fa fa-file-word-o"></i>¿Que es Wadaboo?</a> 
+                            <a href="https://wadaboo.com/" target="_blank" class="btn btn-default btn-radius page-scroll"><i class="fa fa-file-word-o"></i>{{ $t("start-banner.what-is-wadaboo")}}</a> 
                         </div>
                     </div>
                 </div>
@@ -20,7 +20,7 @@
                         <div class="tk_countdown transparent_bg token_bg token_circle text-center animation" data-animation="fadeIn" data-animation-delay="1.1s">
                             <div class="banner_text tk_counter_inner">
                                 <div class="tk_countdown_time p-0 transparent_bg box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1.2s" data-time="2021/05/20 00:00:00"></div>
-                                <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xEE1e22DB567897bB401311B79030344602EABE47&inputCurrency=BNB" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">Comprar Tokens <i class="ion-ios-arrow-thin-right"></i></a>
+                                <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xEE1e22DB567897bB401311B79030344602EABE47&inputCurrency=BNB" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">{{ $t("start-banner.buy-tokens")}}<i class="ion-ios-arrow-thin-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -29,14 +29,14 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pl-2 pr-2">
                                     <div class="pr_box">
-                                        <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style="animation-delay: 0.2s; opacity: 1;">Total creado :</h6>
+                                        <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style="animation-delay: 0.2s; opacity: 1;">{{ $t("start-banner.total-created")}}:</h6>
                                         <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style="animation-delay: 0.4s; opacity: 1;">200.000.000.000 Wadapay</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pl-2 pr-2">
                                     <div class="pr_box">
-                                        <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style="animation-delay: 0.6s; opacity: 1;">Inicio de venta :</h6>
-                                        <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.8s" style="animation-delay: 0.8s; opacity: 1;">20/05/2021 <br>(12:00 PM)</p>
+                                        <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style="animation-delay: 0.6s; opacity: 1;">{{ $t("start-banner.start-sell")}}:</h6>
+                                        <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.8s" style="animation-delay: 0.8s; opacity: 1;">{{ $t("start-banner.date-start-sell") }} <br>{{ $t("start-banner.hour-start-sell") }}</p>
                                     </div>
                                 </div>
                             </div>
