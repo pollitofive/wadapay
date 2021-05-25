@@ -1,0 +1,9 @@
+{
+    "faq": {
+        "questions_wadaboo" : [{
+            "number": 1,
+            "question": "What is an electronic facture?",
+            "answer": "Una subasta inversa o reversa es un tipo de subasta en la que se invierten los papeles de comprador y el vendedor. En una subasta ordinaria, los compradores compiten para obtener un bien o servicio, ofreciendo precios cada vez más altos, en cambio en una subasta inversa, los proveedores ofrecen precios más bajos."
+        }]
+    }
+}
