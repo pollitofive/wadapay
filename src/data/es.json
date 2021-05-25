@@ -1,0 +1,229 @@
+{
+    "header": {
+        "about": "Sobre wadapay",
+        "utility": "Utilidad",
+        "roadmap": "Hoja de ruta",
+        "team": "Equipo",
+        "faq": "Preguntas frecuentes",
+        "graphic": "Gráfico",
+        "contract": "Contrato"
+    },
+    "start-banner": {
+        "project-title": "Wadapay",
+        "start-message": "es una innovadora red de pagos para empresas y emprendedores ",
+        "start-subtitle": "Una moneda nativa de Wadaboo pensada para emprendedores",
+        "what-is-wadaboo": "¿Que es Wadaboo?",
+        "buy-tokens": "Comprar tokens",
+        "total-created": "Total creado",
+        "start-sell": "Inicio de venta",
+        "date-start-sell": "20/05/2021",
+        "hour-start-sell": "(12:00 PM)"
+    },
+    "about": {
+        "title-about": "Sobre Wadaboo",
+        "paragraph1": "Creada para funcionar como medio de pago de Wadaboo y está integrada de manera automática a las ventas individuales de las empresas.",
+        "paragraph2": "De esta manera, Wadaboo tiene una moneda nativa que puede ser usada para que las empresas paguen, cobren, hagan transferencias internacionales o saquen préstamos.",
+        "where-buy": "¿Dónde comprar?"
+    },
+    "why-wadapay": {
+        "title-why": "¿PARA QUE SE VA A UTILIZAR WADAPAY?",
+        "card1": {
+            "title": "COBROS Y PAGOS",
+            "subtitle" : "Todos los usuarios que utilicen nuestra plataforma, Wadaboo, podrán cobrar y pagar con nuestra criptomoneda y automáticamente hacer el Swap a moneda FIAT."
+        },
+        "card2": {
+            "title": "TRANSFERENCIAS INTERNACIONALES",
+            "subtitle" : "Las empresas y emprendedores podrán hacer transferencias internacionales, tanto sea para pagos de servicios o compra de productos."
+        },
+        "card3": {
+            "title": "PRÉSTAMOS",
+            "subtitle" : "En un futuro cercano, las empresas podrán tomar préstamos en WPAY para la compra de maquinarías, productos o expansión."
+        }
+    },
+    "roadmap": {
+        "title": "Hoja de ruta",
+        "item1": {
+            "date": "6 de Mayo 2021",
+            "description": "Se crean 200MM de WPAY"
+        },
+        "item2": {
+            "date": "14 de Mayo de 2021",
+            "description": "Se lista WPAY en Pancakeswap"
+        },
+        "item3": {
+            "date": "20 de Mayo",
+            "description": "Wadapay empieza la comercialización en los distintos canales"
+        },
+        "item4": {
+            "date": "Q3 2021",
+            "description1": "Wadaboo invierte en marketing Argentina",
+            "description2": "Integración de Wadapay con Wadaboo",
+            "description3": "WPAY se lista en Hotbit, Gate.io, y Poloniex"
+        },
+        "item5": {
+            "date": "Q4 2021 – Q1 2022",
+            "description1": "Wadaboo abre operaciones en Chile",
+            "description2": "Wadaboo invierte en marketing Chile"
+        },
+        "item6": {
+            "date": "Q2 2022 – Q3 2022",
+            "description1": "Tratamos de abrir en otros exchanges",
+            "description2": "Wadaboo abre operaciones en Colombia y Brasil"
+        },
+        "item7": {
+            "date": "Q4 2022 – Q1 2023",
+            "description1": "Wadaboo abre operaciones en México, España y Estados Unidos",
+            "description2": "Hacemos una fuerte inversión en marketing y publicidad en estos países"
+        }
+   },
+   "distribution-tokens": {
+       "card1": {
+           "title": "Uso De Fondos",
+           "alt": "Reserva capitales"
+       },
+       "card2": {
+            "title": "Distribución De Tokens",
+            "alt": "Distribución de tokens"
+        }
+    },
+    "faq": {
+        "title": "Preguntas frecuentes",
+        "questions_wadapay": [{
+            "number": 1,
+            "question": "¿Qué es Wadapay (WPAY)?",
+            "answer": "Un token 100% impulsado por la comunidad con utilidad en la industria B2B. Creado por Wadaboo (plataforma B2B) para que funcione dentro y fuera como medio de pago entre empresas, envios internacionales, préstamos, etc."
+        },
+        {
+            "number": 2,
+            "question": "WPAY es el token de utilidad nativo que se utiliza para:",
+            "answer": "<li> Comprar y vender productos entre empresas. <li> Wadaboo ganó su comisión a las empresas que publican en su plataforma. <li> Las empresas pueden hacer compras internacionales. <li> Las empresas pueden pedir prestamos."
+        },
+        {
+            "number": 3,
+            "question": "¿Cuántas monedas WPAY hay en circulación?",
+            "answer": "Se lanzaron 200 Billones de tokens. El 50% se liberó en Pacakeswap para que los inversionistas puedan comprarlo. Se liberará el 20% más en otros intercambios descentralizados y centralizados. El 24% lo tendrá una billetera que sería manejada por Wadaboo.com para que las empresas puedan hacer transacciones dentro de la plataforma, donde los fondos se utilizarían principalmente en marketing, comisiones de vendedores, legales y contables, y la mitad se guardaría como reserva de capital. El 6% restante se reparte entre los desarrolladores."
+        },
+        {
+            "number": 4,
+            "question": "¿Quiénes son los fundadores de Wadapay?",
+            "answer": "<li> Sergio Daniel Blitman, CEO de Wadaboo, fundó 3 empresas más anteriormente, 1 de ellas aún funciona, además de ser jefe de compras nacionales e internacionales. <li> Nicolás Passerini, programador full stack con más de 6 años de experiencia en TI, actualmente trabajando en la legislatura de la Ciudad de Buenos Aires. <li> Se incorpora en el mes de Mayo de 2019, Damián Ladiani, programador en php, más de 10 años de experiencia. Actualmente trabaja en Metrotel."
+        },
+        {
+            "number": 5,
+            "question": "¿Dónde puedo comprar Wadapay (WPAY)?",
+            "answer": "WPAY se puede comprar actualmente en Pancakeswap y se van a ir incorporando nuevos intercambios."
+        },
+        {
+            "number": 6,
+            "question": "¿Qué hace que Wadapay sea único?",
+            "answer": "WPAY tiene un muy buen proyecto detrás, que se llama Wadaboo, la plataforma central B2B, de subastas inversas para automatizar y optimizar las compras corporativas. En este momento está activa en Argentina, y tiene su empresa legal constituida en Buenos Aires, Argentina a nombre de Wadaboo SAS. <br> La criptomoneda nativa de Wadaboo (WPAY) funciona como medio de pago. Además, Wadaboo va a ir expandiendo sus operaciones en varios países y las empresas van a ir adoptando WPAY como medio de transacción."
+        }],
+        "questions_wadaboo" : [{
+            "number": 1,
+            "question": "¿Qué es la subasta inversa electrónica?",
+            "answer": "Una subasta inversa o reversa es un tipo de subasta en la que se invierten los papeles de comprador y el vendedor. En una subasta ordinaria, los compradores compiten para obtener un bien o servicio, ofreciendo precios cada vez más altos, en cambio en una subasta inversa, los proveedores ofrecen precios más bajos."
+        },
+        {
+            "number": 2,
+            "question": "¿Cómo publico una subasta inversa?",
+            "answer": "Si quieres publicar una necesidad de compra, en el panel principal o en Mis Compras, verás un botón que dice “Nueva publicación”. Completa los campos lo más detalladamente posible todos los campos (es muy importante ya que cuantos más datos brindes, mejor entenderá el Usuario Proveedor)  en el campo 1, pulsa el botón de “ Agregar ítems” (puedes agregar hasta 15 productos por publicación) en el campo 2 y luego “Guardar” para hacer efectiva una publicación."
+        },
+        {
+            "number": 3,
+            "question": "¿Cuánto tiempo dura una subasta inversa?",
+            "answer": "Desde que se publica la necesidad de compra, hasta que llega el día y horario de fin de subasta dispuesto por el Usuario Comprador. Lo vas a visualizar asi: Tiempo restante: 04d 19h 37m 24s."
+        },
+        {
+            "number": 4,
+            "question": "¿Cuál es el monto mínimo para ofertar un proceso de subasta inversa?",
+            "answer": "No hay monto mínimo, solo tienes que ofertar menos que la oferta anterior."
+        },
+        {
+            "number": 5,
+            "question": "¿Cómo se realiza una oferta?",
+            "answer": "Cuando un Usuario Comprador publica una necesidad de compra, automáticamente se habilita a los Usuarios Proveedores a ofertar. La oferta se hace efectiva introduciendo un número entero o decimal menor que la oferta anterior, o directamente si es que no hay una oferta anterior, y clickeando “Realizar oferta”."
+        },
+        {
+            "number": 6,
+            "question": "¿Cuántas categorías de productos me permite agregar el proceso de la subasta inversa?",
+            "answer": "No hay un máximo de categorías, pero por proceso puedes agregar hasta 15 productos."
+        },
+        {
+            "number": 7,
+            "question": "¿Hay alguna sección de preguntas y respuestas?",
+            "answer": "Si, debajo de los productos publicados, encontrarás un espacio donde preguntar cualquier duda que tengas acerca del ítem que quieras ofertar. Recuerda que no se permiten los datos de contacto explícitos ni las insinuaciones ya que las subastas inversas son anónimas hasta que se venza el plazo, en ese momento podrás contactar a tu contraparte."
+        },
+        {
+            "number": 8,
+            "question": "¿La empresa compradora debe adjudicarme si termina la subasta y voy ganando?",
+            "answer": "El Usuario Proveedor que haya realizado la oferta más baja quedará obligado a cumplir con la misma, en las formas y condiciones que haya fijado el Usuario Comprador. De la misma manera estará obligado a cumplir el Usuario que haya realizado una contraoferta cuando esta haya sido expresamente aceptada por el Vendedor bajo el mecanismo que para el efecto establezca El Sitio. A pesar de que El Sitio no puede obligar al Usuario Comprador a completar la compra-venta, el Usuario Vendedor podrá iniciar contra el Usuario Comprador, todas las acciones legales que estime pertinentes para obtener el cumplimiento de su obligación."
+        },
+        {
+            "number": 9,
+            "question": "¿Pueden suspender o cancelar mi usuario?",
+            "answer": "Wadaboo se reserva el derecho de cancelar la Cuenta del Usuario que hubiere incumplido sus obligaciones derivadas de una compra-venta, o si se detectara en su conducta intencionalidad de perjudicar a otros Usuarios."
+        },
+        {
+            "number": 10,
+            "question": "¿Si una subasta inversa no recibe ofertas, puedo hacer otra subasta?",
+            "answer": "Una vez declarado que termina la subasta inversa, el comprador, puede republicar su proceso de compra."
+        },
+        {
+            "number": 11,
+            "question": "¿Qué pasaría si cualquiera de las dos contrapartes no se contacta?",
+            "answer": "Si el Usuario Proveedor no se contactará en el término previsto en el punto número 13, el Usuario Comprador puede contactarnos a atencion@wadaboo.com para que nosotros le asignemos el Usuario Proveedor que le sigue."
+        },
+        {
+            "number": 12,
+            "question": "¿Cuándo sé si efectivamente una subasta inversa ya está finalizada?",
+            "answer": "Una subasta inversa está finalizada cuando el tiempo restante llegue a 0, ya no esté listada en “Publicaciones activas”"
+        },
+        {
+            "number": 13,
+            "question": "Una vez adjudicado el proveedor, en cuánto tiempo máximo se debe completar la operación?",
+            "answer": "Dentro del término máximo de 15 días, a menos que expresamente uno de los dos Usuarios, nos exprese que necesitan una prórroga a atencion@wadaboo.com"
+        },
+        {
+            "number": 14,
+            "question": "¿Qué pasaría si no se completa la operación por algo en particular?",
+            "answer": "Si por fuerza mayor no se pudiese completar la operación de compra-venta, y se tenga que dar de baja, el interesado tendría que enviar un mail a atencion@wadaboo.com"
+        }]
+    },
+    "team": {
+        "title": "Equipo",
+        "nicolas": {
+            "job": "Desarrollador",
+            "about": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "daniel": {
+            "job": "CEO",
+            "about": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "damian": {
+            "job": "Desarrollador",
+            "about": {
+                "title": "Sobre Damián...",
+                "description": "Soy desarrollador web, trabajé en el Ejército Argentino, Ministerio de Defensa de la Nación, Ministerio de Seguridad de la Nación y actualmente estoy trabajando en la compañía Metrotel. Me considero una persona proactiva, ordenada, planificadora, apasionada de la programación y del liderazgo. Mi objetivo es aprender e implementar cosas nuevas todos los días."
+            }
+        }
+    },
+    "footer": {
+        "wadapay": {
+            "description": "Un token 100% impulsado por la comunidad con utilidad en la industria B2B. Creado por Wadaboo (plataforma B2B) para que funcione dentro y fuera como medio de pago entre empresas, envios internacionales, préstamos, etc."
+        },
+        "useful-links": {
+            "title": "Links útiles",
+            "buy-wpay": "Comprar WPAY",
+            "graphic": ""
+        },
+        "quick-access": "Accesos rápidos",
+        "copyright": "Todos los derechos reservados."
+    }
+
+}

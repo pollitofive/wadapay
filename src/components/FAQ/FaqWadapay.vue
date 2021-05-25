@@ -1,11 +1,10 @@
 <template>
-    <!-- START SECTION FAQ -->
     <section id="faq">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                     <div class="title_cyan_dark text-center">
-                        <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Preguntas frecuentes</h4>
+                        <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">{{ $t("faq.title") }}</h4>
                     </div>
                 </div>
             </div>
@@ -24,13 +23,13 @@
                             <div class="tab-pane active" id="tabWadapay" role="tabpanel">
                                 <div id="accordion2" class="faq_question">
                                     <div id="accordion3" class="faq_question">
-                                        <question v-for="question in faq_wadapay" v-bind:key="question.number" :question="question"></question>
+                                        <question v-for="question in $t('faq.questions_wadapay')" v-bind:key="question.number" :question="question"></question>
                                     </div>	
                                 </div>	
                             </div>
                             <div class="tab-pane fade" id="tabWadaboo" role="tabpanel">
                                 <div id="accordion3" class="faq_question">
-                                    <question v-for="question in faq_wadaboo" v-bind:key="question.number" :question="question"></question>
+                                    <question v-for="question in $t('faq.questions_wadaboo')" v-bind:key="question.number" :question="question"></question>
                                </div>	
                             </div>
                         </div>
@@ -39,22 +38,13 @@
             </div>
         </div>
     </section>
-    <!-- END SECTION FAQ -->
 </template>
 <script>
 import Question from './Question'
-import questions_wadapay from '../../data/es/questions_wadapay.js'
-import questions_wadaboo from '../../data/es/questions_wadaboo.js'
 export default {
     name: 'faq',
     components: {
         Question
-    },
-    data() {
-        return {
-            faq_wadapay: questions_wadapay,
-            faq_wadaboo: questions_wadaboo
-        }
     }
 }
 </script>

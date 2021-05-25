@@ -11,7 +11,7 @@
             </div>
             <div class="team_info text-center">
                 <h4><a href="#" class="content-popup" style="cursor: default">Nicolás Passerini</a></h4>
-                <p>Desarrollador</p>
+                <p>{{ $t('team.nicolas.job') }}</p>
             </div>
         </div>
     </div>

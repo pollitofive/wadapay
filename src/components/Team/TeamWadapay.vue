@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="title_default_dark title_border text-center">
-                        <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Equipo</h4>
+                        <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">{{ $t('team.title') }}</h4>
                     </div>
                 </div>
             </div>

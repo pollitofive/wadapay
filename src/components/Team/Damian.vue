@@ -13,7 +13,7 @@
             </div>
             <div class="team_info text-center">
                 <h4><a href="#team7" class="content-popup">Damián Ladiani</a></h4>
-                <p>Desarrollador</p>
+                <p>{{ $t('team.damian.job') }}</p>
             </div>
             <div id="team7" class="team_pop mfp-hide">
                 <div class="row m-0">
@@ -22,7 +22,7 @@
                             <img class="w-100" src="../../assets/img/damian.jpg" alt="Damián Ladiani"/>
                             <div class="team_title">
                                 <h4>Damián Ladiani</h4>
-                                <span>Desarrollador</span>
+                                <span>{{ $t('team.damian.job') }}</span>
                             </div>
                         </div>
                         <div class="social_single_team list_none mt-3">
@@ -34,13 +34,9 @@
                     </div>
                     <div class="col-md-8">
                         <div class="pt-3">
-                            <h5>Sobre Damián...</h5>
+                            <h5>{{ $t('team.damian.about.title') }}</h5>
                             <hr>
-                            <p>Soy desarrollador web, trabajé en el Ejército Argentino, Ministerio de Defensa de
-                                la Nación, Ministerio de Seguridad de la Nación y actualmente estoy trabajando en
-                                la compañía Metrotel. Me considero una persona proactiva, ordenada,
-                                planificadora, apasionada de la programación y del liderazgo. Mi objetivo es
-                                aprender e implementar cosas nuevas todos los días.</p>
+                            <p>{{ $t('team.damian.about.description') }}</p>
                         </div>
                     </div>
                 </div>
