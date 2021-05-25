@@ -85,5 +85,31 @@
             "title": "Distribución De Tokens",
             "alt": "Distribución de tokens"
         }
+    },
+    "team": {
+        "title": "Equipo",
+        "nicolas": {
+            "job": "Desarrollador",
+            "about": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "daniel": {
+            "job": "CEO",
+            "about": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "damian": {
+            "job": "Desarrollador",
+            "about": {
+                "title": "Sobre Damián...",
+                "description": "Soy desarrollador web, trabajé en el Ejército Argentino, Ministerio de Defensa de la Nación, Ministerio de Seguridad de la Nación y actualmente estoy trabajando en la compañía Metrotel. Me considero una persona proactiva, ordenada, planificadora, apasionada de la programación y del liderazgo. Mi objetivo es aprender e implementar cosas nuevas todos los días."
+            }
+        }
+
+
     }
 }

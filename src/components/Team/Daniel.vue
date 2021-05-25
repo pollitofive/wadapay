@@ -11,7 +11,7 @@
             </div>
             <div class="team_info text-center">
                 <h4><a href="#" class="content-popup" style="cursor: default">Daniel Blitman</a></h4>
-                <p>CEO</p>
+                <p>{{ $t('team.daniel.job') }}</p>
             </div>
         </div>
     </div>
