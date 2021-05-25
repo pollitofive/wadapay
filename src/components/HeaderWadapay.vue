@@ -20,8 +20,8 @@
                     </ul>
                     <ul class="navbar-nav nav_btn align-items-center">
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="2s">
-                                <select name="countries" id="lng_select2" @change="onChange()" v-model="languageSelected"> 
-                                    <option v-for="language in languages"
+                                <select name="countries" id="lng_select2" @change="onChange()" v-model="languageSelected" class="selectLanguage"> 
+                                    <option class="optionLanguage" v-for="language in languages"
                                         v-bind:key="language.flag"
                                         :value="language.flag"
                                         :data-image="language.image"
@@ -38,6 +38,21 @@
     </header>
     <!-- END HEADER --> 
 </template>
+<style scoped>
+
+.selectLanguage {
+    background-color: inherit;
+    color: white;
+    cursor: pointer;
+    width: 75px;
+    border: 0;
+}
+
+.optionLanguage {
+    background-color: #121A4A
+}
+
+</style>
 <script>
 import i18n from '../plugins/i18n';
 export default {
