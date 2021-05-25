@@ -109,7 +109,18 @@
                 "description": "Soy desarrollador web, trabajé en el Ejército Argentino, Ministerio de Defensa de la Nación, Ministerio de Seguridad de la Nación y actualmente estoy trabajando en la compañía Metrotel. Me considero una persona proactiva, ordenada, planificadora, apasionada de la programación y del liderazgo. Mi objetivo es aprender e implementar cosas nuevas todos los días."
             }
         }
-
-
+    },
+    "footer": {
+        "wadapay": {
+            "description": "Un token 100% impulsado por la comunidad con utilidad en la industria B2B. Creado por Wadaboo (plataforma B2B) para que funcione dentro y fuera como medio de pago entre empresas, envios internacionales, préstamos, etc."
+        },
+        "useful-links": {
+            "title": "Links útiles",
+            "buy-wpay": "Comprar WPAY",
+            "graphic": ""
+        },
+        "quick-access": "Accesos rápidos",
+        "copyright": "Todos los derechos reservados."
     }
+
 }
