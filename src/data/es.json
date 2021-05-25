@@ -39,5 +39,51 @@
             "title": "PRÉSTAMOS",
             "subtitle" : "En un futuro cercano, las empresas podrán tomar préstamos en WPAY para la compra de maquinarías, productos o expansión."
         }
+    },
+    "roadmap": {
+        "title": "Hoja de ruta",
+        "item1": {
+            "date": "6 de Mayo 2021",
+            "description": "Se crean 200MM de WPAY"
+        },
+        "item2": {
+            "date": "14 de Mayo de 2021",
+            "description": "Se lista WPAY en Pancakeswap"
+        },
+        "item3": {
+            "date": "20 de Mayo",
+            "description": "Wadapay empieza la comercialización en los distintos canales"
+        },
+        "item4": {
+            "date": "Q3 2021",
+            "description1": "Wadaboo invierte en marketing Argentina",
+            "description2": "Integración de Wadapay con Wadaboo",
+            "description3": "WPAY se lista en Hotbit, Gate.io, y Poloniex"
+        },
+        "item5": {
+            "date": "Q4 2021 – Q1 2022",
+            "description1": "Wadaboo abre operaciones en Chile",
+            "description2": "Wadaboo invierte en marketing Chile"
+        },
+        "item6": {
+            "date": "Q2 2022 – Q3 2022",
+            "description1": "Tratamos de abrir en otros exchanges",
+            "description2": "Wadaboo abre operaciones en Colombia y Brasil"
+        },
+        "item7": {
+            "date": "Q4 2022 – Q1 2023",
+            "description1": "Wadaboo abre operaciones en México, España y Estados Unidos",
+            "description2": "Hacemos una fuerte inversión en marketing y publicidad en estos países"
+        }
+   },
+   "distribution-tokens": {
+       "card1": {
+           "title": "Uso De Fondos",
+           "alt": "Reserva capitales"
+       },
+       "card2": {
+            "title": "Distribución De Tokens",
+            "alt": "Distribución de tokens"
+        }
     }
 }
