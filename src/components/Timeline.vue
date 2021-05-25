@@ -18,7 +18,7 @@
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item1.date") }}</h6>
-                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Se crean 200MM de WPAY</p>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item1.description") }}</p>
                             </div>
                             </div>
                         </div>
@@ -27,7 +27,7 @@
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item2.date") }}</h6>
-                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Se lista WPAY en Pancakeswap</p>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item2.description") }}</p>
                             </div>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item3.date") }}</h6>
-                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Wadapay empieza la comercialización en los distintos canales </p>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item3.description") }} </p>
                             </div>
                             </div>
                         </div>
@@ -45,9 +45,9 @@
                             <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item4.date") }}</h6>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Wadaboo invierte en marketing Argentina</li>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Integración de Wadapay con Wadaboo</li>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">WPAY se lista en Hotbit, Gate.io, y Poloniex</li>
+                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description1") }}</li>
+                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description2") }}</li>
+                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description3") }}</li>
                             </div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@
                             <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item5.date") }}</h6>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Wadaboo abre operaciones en Chile</li>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Wadaboo invierte en marketing Chile</li>
+                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item5.description1") }}</li>
+                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item5.description2") }}</li>
                             </div>
                             </div>
                         </div>
@@ -66,8 +66,8 @@
                                 <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                     <div class="timeline_circle"></div>
                                     <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item6.date") }}</h6>
-                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Tratamos de abrir en otros exchanges</li>
-                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Wadaboo abre operaciones en Colombia y Brasil</li>
+                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item6.description1") }}</li>
+                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item6.description2") }}</li>
                                 </div>
                             </div>
                         </div>
@@ -76,8 +76,8 @@
                                 <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                     <div class="timeline_circle"></div>
                                     <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item7.date") }}</h6>
-                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Wadaboo abre operaciones en México, España y Estados Unidos</li>
-                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Hacemos una fuerte inversión en marketing y publicidad en estos países</li>
+                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item7.description1") }}</li>
+                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item7.description2") }}</li>
                                 </div>
                             </div>
                         </div>

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
                     <div class="title_cyan_dark text-center">
-                        <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Preguntas frecuentes</h4>
+                        <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">{{ $t("faq.title") }}</h4>
                     </div>
                 </div>
             </div>

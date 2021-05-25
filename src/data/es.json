@@ -33,7 +33,7 @@
         },
         "card2": {
             "title": "TRANSFERENCIAS INTERNACIONALES",
-            "subtitle" : "Las empresas e emprendedores podrán hacer transferencias internacionales, tanto sea para pagos de servicios o compra de productos."
+            "subtitle" : "Las empresas y emprendedores podrán hacer transferencias internacionales, tanto sea para pagos de servicios o compra de productos."
         },
         "card3": {
             "title": "PRÉSTAMOS",
@@ -87,6 +87,7 @@
         }
     },
     "faq": {
+        "title": "Preguntas frecuentes",
         "questions_wadapay": [{
             "number": 1,
             "question": "¿Qué es Wadapay (WPAY)?",

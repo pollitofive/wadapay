@@ -1,5 +1,4 @@
 <template>
-    <!-- START HEADER -->
     <header class="header_wrap fixed-top">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg"> 
@@ -36,7 +35,6 @@
             </nav>
         </div>
     </header>
-    <!-- END HEADER --> 
 </template>
 <style scoped>
 

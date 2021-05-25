@@ -1,9 +1,229 @@
 {
+    "header": {
+        "about": "About wadapay",
+        "utility": "utility",
+        "roadmap": "Roadmap",
+        "team": "Team",
+        "faq": "FAQ",
+        "graphic": "Graphic",
+        "contract": "Contract"
+    },
+    "start-banner": {
+        "project-title": "Wadapay",
+        "start-message": "is an innovative payment network for companies and entrepreneurs ",
+        "start-subtitle": "A native Wadaboo coin designed for entrepreneurs",
+        "what-is-wadaboo": "What isWadaboo?",
+        "buy-tokens": "Buy tokens",
+        "total-created": "Total created",
+        "start-sell": "Start of sale",
+        "date-start-sell": "2021-05-20",
+        "hour-start-sell": "(12:00)"
+    },
+    "about": {
+        "title-about": "About Wadaboo",
+        "paragraph1": "Created to function as a Wadaboo payment method and is automatically integrated into individual company sales.",
+        "paragraph2": "In this way, Wadaboo has a native currency that can be used for companies to pay, collect, make international transfers or take out loans.",
+        "where-buy": "Where buy?"
+    },
+    "why-wadapay": {
+        "title-why": "WHAT IS WADAPAY USED FOR?",
+        "card1": {
+            "title": "COLLECTIONS AND PAYMENTS",
+            "subtitle" : "All users who use our platform, Wadaboo, will be able to collect and pay with our cryptocurrency and automatically make the Swap to FIAT currency."
+        },
+        "card2": {
+            "title": "INTERNATIONAL TRANSFERS",
+            "subtitle" : "Companies and entrepreneurs may make international transfers, either for payment of services or purchase of products."
+        },
+        "card3": {
+            "title": "LOANS",
+            "subtitle" : "In the near future, companies will be able to take loans in WPAY for the purchase of machinery, products or expansion."
+        }
+    },
+    "roadmap": {
+        "title": "Roadmap",
+        "item1": {
+            "date": "May 6, 2021",
+            "description": "200MM WPAY is created"
+        },
+        "item2": {
+            "date": "May 14, 2021",
+            "description": "WPAY is listed on Pancakeswap"
+        },
+        "item3": {
+            "date": "May 20, 2021",
+            "description": "Wadapay begins marketing in the different channels"
+        },
+        "item4": {
+            "date": "Q3 2021",
+            "description1": "Wadaboo invests in marketing Argentina",
+            "description2": "Wadapay integration with Wadaboo",
+            "description3": "WPAY is listed on Hotbit, Gate.io, and Poloniex"
+        },
+        "item5": {
+            "date": "Q4 2021 – Q1 2022",
+            "description1": "Wadaboo opens operations in Chile",
+            "description2": "Wadaboo invests in marketing Chile"
+        },
+        "item6": {
+            "date": "Q2 2022 – Q3 2022",
+            "description1": "We try to open on other exchanges",
+            "description2": "Wadaboo opens operations in Colombia and Brazil"
+        },
+        "item7": {
+            "date": "Q4 2022 – Q1 2023",
+            "description1": "Wadaboo opens operations in Mexico, Spain and the United States",
+            "description2": "We invest heavily in marketing and advertising in these countries"
+        }
+   },
+   "distribution-tokens": {
+       "card1": {
+           "title": "Use of Funds",
+           "alt": "Capital reserve"
+       },
+       "card2": {
+            "title": "Token Distribution",
+            "alt": "Token Distribution"
+        }
+    },
     "faq": {
+        "title": "FAQ",
+        "questions_wadapay": [{
+            "number": 1,
+            "question": "What is Wadapay (WPAY)?",
+            "answer": "A 100% community-driven token with utility in the B2B industry. Created by Wadaboo (B2B platform) to work inside and outside as a means of payment between companies, international shipments, loans, etc."
+        },
+        {
+            "number": 2,
+            "question": "WPAY is the native utility token used for:",
+            "answer": "<li> Buy and sell products between companies. <li> Wadaboo earned its commission from companies that publish on its platform. <li> Companies can make international purchases. <li> Businesses can borrow."
+        },
+        {
+            "number": 3,
+            "question": "How many WPAY coins are there in circulation?",
+            "answer": "200 Billion tokens were launched. 50% was released on Pacakeswap so investors can buy it. 20% more will be released on other decentralized and centralized exchanges. 24% will have a wallet that would be managed by Wadaboo.com so that companies can make transactions within the platform, where the funds would be used mainly in marketing, seller commissions, legal and accounting, and half would be kept as a reserve capital. The remaining 6% is shared between developers."
+        },
+        {
+            "number": 4,
+            "question": "Who are the founders of Wadapay?",
+            "answer": "<li> Sergio Daniel Blitman, CEO of Wadaboo, founded 3 more companies previously, 1 of them still works, in addition to being head of national and international purchasing. <li> Nicolás Passerini, full stack programmer with more than 6 years of experience in IT, currently working in the legislature of the City of Buenos Aires. <li> Damián Ladiani, php programmer, with more than 10 years of experience, joined in May 2019. He currently works at Metrotel."
+        },
+        {
+            "number": 5,
+            "question": "Where can I buy Wadapay (WPAY)?",
+            "answer": "WPAY is currently available for purchase on Pancakeswap and new exchanges will be added."
+        },
+        {
+            "number": 6,
+            "question": "What makes Wadapay unique?",
+            "answer": "WPAY has a very good project behind it, which is called Wadaboo, the central B2B platform for reverse auctions to automate and optimize corporate purchases. It is currently active in Argentina, and has its legal company incorporated in Buenos Aires, Argentina under the name of Wadaboo SAS. <br> Wadaboo's native cryptocurrency (WPAY) works as a means of payment. In addition, Wadaboo will be expanding its operations in several countries and companies will be adopting WPAY as a means of transaction."
+        }],
         "questions_wadaboo" : [{
             "number": 1,
-            "question": "What is an electronic facture?",
-            "answer": "Una subasta inversa o reversa es un tipo de subasta en la que se invierten los papeles de comprador y el vendedor. En una subasta ordinaria, los compradores compiten para obtener un bien o servicio, ofreciendo precios cada vez más altos, en cambio en una subasta inversa, los proveedores ofrecen precios más bajos."
+            "question": "What is electronic reverse auction?",
+            "answer": "A reverse or reverse auction is a type of auction in which the roles of buyer and seller are reversed. In an ordinary auction, buyers compete for a good or service, offering increasingly higher prices, whereas in a reverse auction, suppliers offer lower prices."
+        },
+        {
+            "number": 2,
+            "question": "How do I publish a reverse auction?",
+            "answer": "If you want to publish a purchase need, in the main panel or in My Purchases, you will see a button that says 'New publication'. Complete the fields as detailed as possible all the fields (it is very important since the more data you provide, the better the Provider User will understand) in field 1, press the 'Add items' button (you can add up to 15 products per publication) in field 2 and then 'Save' to make a publication effective."
+        },
+        {
+            "number": 3,
+            "question": "How long does a reverse auction last?",
+            "answer": "From when the purchase need is published, until the date and time of the end of the auction set by the Buyer User arrives. You will visualize it like this: Remaining time: 04d 19h 37m 24s."
+        },
+        {
+            "number": 4,
+            "question": "What is the minimum amount to bid a reverse auction process?",
+            "answer": "There is no minimum amount, you just have to bid less than the previous offer."
+        },
+        {
+            "number": 5,
+            "question": "How is an offer made?",
+            "answer": "When a Buyer User publishes a purchase need, Provider Users are automatically enabled to bid. The offer is effective by entering an integer or decimal number less than the previous offer, or directly if there is no previous offer, and clicking 'Make offer'."
+        },
+        {
+            "number": 6,
+            "question": "How many product categories does the reverse auction process allow me to add?",
+            "answer": "There is no maximum number of categories, but per process you can add up to 15 products."
+        },
+        {
+            "number": 7,
+            "question": "Is there a question and answer section?",
+            "answer": "Yes, under the published products, you will find a space where you can ask any questions you have about the item you want to offer. Remember that explicit contact details or hints are not allowed as reverse auctions are anonymous until the deadline, at which point you can contact your counterpart."
+        },
+        {
+            "number": 8,
+            "question": "Should the buying company award me if the auction ends and I am winning?",
+            "answer": "The Provider User who has made the lowest offer will be obliged to comply with it, in the forms and conditions set by the Buyer User. In the same way, the User who has made a counter offer will be obliged to comply when it has been expressly accepted by the Seller under the mechanism established by the Site for that purpose. Despite the fact that the Site cannot oblige the Buyer User to complete the purchase and sale, the Seller User may initiate against the Buyer User, all the legal actions it deems pertinent to obtain the fulfillment of its obligation."
+        },
+        {
+            "number": 9,
+            "question": "Can you suspend or cancel my user?",
+            "answer": "Wadaboo reserves the right to cancel the User's Account that has failed to comply with its obligations derived from a purchase-sale, or if it is detected in its conduct intent to harm other Users."
+        },
+        {
+            "number": 10,
+            "question": "If a reverse auction does not receive bids, can I do another auction?",
+            "answer": "Once declared that the reverse auction ends, the buyer can republish their purchase process."
+        },
+        {
+            "number": 11,
+            "question": "What would happen if either of the two partners is not contacted?",
+            "answer": "If the Provider User will not be contacted within the term provided in point 13, the Buyer User can contact us at atencion@wadaboo.com so that we can assign the Provider User that follows."
+        },
+        {
+            "number": 12,
+            "question": "When do I know if a reverse auction is actually over?",
+            "answer": "A reverse auction is finished when the time remaining reaches 0, it is no longer listed under 'Active Posts'"
+        },
+        {
+            "number": 13,
+            "question": "Once the supplier has been awarded, in how much time must the operation be completed?",
+            "answer": "Within a maximum term of 15 days, unless one of the two Users expressly tells us that they need an extension to atencion@wadaboo.com"
+        },
+        {
+            "number": 14,
+            "question": "What would happen if the operation is not completed for something in particular?",
+            "answer": "If, due to force majeure, the purchase-sale operation could not be completed, and it had to be canceled, the interested party would have to send an email to atencion@wadaboo.com"
         }]
+    },
+    "team": {
+        "title": "Team",
+        "nicolas": {
+            "job": "Developer",
+            "about": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "daniel": {
+            "job": "CEO",
+            "about": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "damian": {
+            "job": "Developer",
+            "about": {
+                "title": "About Damián...",
+                "description": "I am a web developer, I worked in the Argentine Army, Ministry of Defense of the Nation, Ministry of Security of the Nation and I am currently working in the Metrotel company. I consider myself a proactive, orderly, planning person, passionate about programming and leadership. My goal is to learn and implement new things every day."
+            }
+        }
+    },
+    "footer": {
+        "wadapay": {
+            "description": "A 100% community-driven token with utility in the B2B industry. Created by Wadaboo (B2B platform) to work inside and outside as a means of payment between companies, international shipments, loans, etc."
+        },
+        "useful-links": {
+            "title": "Useful links",
+            "buy-wpay": "Buy WPAY",
+            "graphic": ""
+        },
+        "quick-access": "Quick access",
+        "copyright": "All rights reserved."
     }
+
 }
