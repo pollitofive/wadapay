@@ -1,11 +1,11 @@
 {
     "header": {
         "about": "About wadapay",
-        "utility": "utility",
+        "utility": "Use",
         "roadmap": "Roadmap",
         "team": "Team",
         "faq": "FAQ",
-        "graphic": "Graphic",
+        "graphic": "Chart",
         "contract": "Contract"
     },
     "start-banner": {
@@ -15,25 +15,25 @@
         "what-is-wadaboo": "What isWadaboo?",
         "buy-tokens": "Buy tokens",
         "total-created": "Total created",
-        "start-sell": "Start of sale",
+        "start-sell": "Start sale",
         "date-start-sell": "2021-05-20",
         "hour-start-sell": "(12:00)"
     },
     "about": {
         "title-about": "About Wadaboo",
-        "paragraph1": "Created to function as a Wadaboo payment method and is automatically integrated into individual company sales.",
+        "paragraph1": "Designed to function as a payment method within Wadaboo, it is also automatically integrated into individual company sales.",
         "paragraph2": "In this way, Wadaboo has a native currency that can be used for companies to pay, collect, make international transfers or take out loans.",
         "where-buy": "Where buy?"
     },
     "why-wadapay": {
-        "title-why": "WHAT IS WADAPAY USED FOR?",
+        "title-why": "How will Wadapay be used?",
         "card1": {
-            "title": "COLLECTIONS AND PAYMENTS",
-            "subtitle" : "All users who use our platform, Wadaboo, will be able to collect and pay with our cryptocurrency and automatically make the Swap to FIAT currency."
+            "title": "CHARGE AND PAYMENTS",
+            "subtitle" : "All users who use our platform, Wadaboo, will be able to charge and pay with our cryptocurrency and automatically make the Swap to FIAT currency."
         },
         "card2": {
             "title": "INTERNATIONAL TRANSFERS",
-            "subtitle" : "Companies and entrepreneurs may make international transfers, either for payment of services or purchase of products."
+            "subtitle" : "Companies and entrepreneurs may make international transfers, either for services´s payment for buy products."
         },
         "card3": {
             "title": "LOANS",
@@ -215,7 +215,7 @@
     },
     "footer": {
         "wadapay": {
-            "description": "A 100% community-driven token with utility in the B2B industry. Created by Wadaboo (B2B platform) to work inside and outside as a means of payment between companies, international shipments, loans, etc."
+            "description": "Created by Wadaboo (B2B platform) to work as a payment method for small and medium business, international transfers, and take loans."
         },
         "useful-links": {
             "title": "Useful links",
