@@ -16,6 +16,7 @@
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.5s"><a class="nav-link page-scroll nav_item" href="#roadmap">{{ $t("header.roadmap")}}</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.6s"><a class="nav-link page-scroll nav_item" href="#team-section">{{ $t("header.team")}}</a></li>
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="1.7s"><a class="nav-link page-scroll nav_item" href="#faq">{{ $t("header.faq")}}</a></li>
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.7s"><a class="nav-link page-scroll nav_item" target="blank" download :href="getWhitepaper[$i18n.locale]">{{ $t("header.whitepaper")}}</a></li>
                     </ul>
                     <ul class="navbar-nav nav_btn align-items-center">
                         <li class="animation" data-animation="fadeInDown" data-animation-delay="2s">
@@ -61,7 +62,11 @@ export default {
             languages: [
                 { flag: 'EN', language: 'en', title: 'English', image: '../public/img/eng.png' },
                 { flag: 'ES', language: 'es', title: 'Español', image: '../public/img/fn.png' }
-            ]
+            ],
+            getWhitepaper: {
+                EN: "../../public/documents/whitepaper-en.pdf",
+                ES: "../../public/documents/whitepaper-es.pdf"
+            }
         }
     },
     methods: {
