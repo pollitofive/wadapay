@@ -9,7 +9,7 @@
 
         <timeline></timeline>
 
-        <distribution-tokens></distribution-tokens>
+        <!--<distribution-tokens></distribution-tokens>-->
 
         <team-wadapay></team-wadapay>
 

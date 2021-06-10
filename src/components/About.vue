@@ -15,7 +15,7 @@
                     <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("about.title-about") }}</h4>
                     <p class="animation" data-animation="fadeInUp" data-animation-delay="0.6s">{{ $t("about.paragraph1") }}</p>
                     <p class="animation" data-animation="fadeInUp" data-animation-delay="1s">{{ $t("about.paragraph2") }}</p>
-                    <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xEE1e22DB567897bB401311B79030344602EABE47&inputCurrency=BNB" target="_blank" class="btn btn-default btn-radius">{{ $t("about.where-buy") }} <i class="ion-ios-arrow-thin-right"></i></a>
+                    <!-- <a href="#" class="btn btn-default btn-radius">{{ $t("about.where-buy") }} <i class="ion-ios-arrow-thin-right"></i></a>-->
                     </div>
                 </div>
             </div>

@@ -16,9 +16,9 @@
         "what-is-wadaboo": "¿Que es Wadaboo?",
         "buy-tokens": "Comprar tokens",
         "total-created": "Total creado",
-        "start-sell": "Inicio de venta",
-        "date-start-sell": "20/05/2021",
-        "hour-start-sell": "(12:00 PM)"
+        "start-sell": "Inicio fase seed (Pre-Ido)",
+        "date-start-sell": "15/06/2021",
+        "hour-start-sell": "12:00 (GMT-3) PM"
     },
     "about": {
         "title-about": "Sobre Wadaboo",
@@ -38,40 +38,43 @@
         },
         "card3": {
             "title": "PRÉSTAMOS",
-            "subtitle" : "En un futuro cercano, las empresas podrán tomar préstamos en WPAY para la compra de maquinarías, productos o expansión."
+            "subtitle" : "En un futuro cercano, las empresas podrán tomar préstamos en WAPAY para la compra de maquinarías, productos o expansión."
         }
     },
     "roadmap": {
         "title": "Hoja de ruta",
         "item1": {
-            "date": "6 de Mayo 2021",
-            "description": "Se crean 200MM de WPAY"
+            "date": "9 de Junio de 2021",
+            "description": "Se crean 200.000.000.000 WAPAY (Versión mejorada de WPAY)"
         },
         "item2": {
-            "date": "14 de Mayo de 2021",
-            "description": "Se lista WPAY en Pancakeswap"
+            "date": "15 de Junio de 2021",
+            "description": "Comienza la fase seed (PRE-IDO)"
         },
         "item3": {
-            "date": "20 de Mayo",
-            "description": "Wadapay empieza la comercialización en los distintos canales"
+            "date": "5 de Julio de 2021",
+            "description": "Comienza la preventa (IDO o ILO)"
         },
         "item4": {
-            "date": "Q3 2021",
-            "description1": "Wadaboo invierte en marketing Argentina",
-            "description2": "Integración de Wadapay con Wadaboo",
-            "description3": "WPAY se lista en Hotbit, Gate.io, y Poloniex"
+            "date": "12 de Julio de 2021",
+            "description": "Se lista WAPAY en Pancakeswap con buena liquidez"
         },
         "item5": {
+            "date": "Q3 2021",
+            "description1": "Wadaboo invierte en marketing Argentina",
+            "description2": "Integración de Wadapay con Wadaboo"
+        },
+        "item6": {
             "date": "Q4 2021 – Q1 2022",
             "description1": "Wadaboo abre operaciones en Chile",
             "description2": "Wadaboo invierte en marketing Chile"
         },
-        "item6": {
+        "item7": {
             "date": "Q2 2022 – Q3 2022",
             "description1": "Tratamos de abrir en otros exchanges",
             "description2": "Wadaboo abre operaciones en Colombia y Brasil"
         },
-        "item7": {
+        "item8": {
             "date": "Q4 2022 – Q1 2023",
             "description1": "Wadaboo abre operaciones en México, España y Estados Unidos",
             "description2": "Hacemos una fuerte inversión en marketing y publicidad en estos países"
@@ -91,17 +94,17 @@
         "title": "Preguntas frecuentes",
         "questions_wadapay": [{
             "number": 1,
-            "question": "¿Qué es Wadapay (WPAY)?",
+            "question": "¿Qué es Wadapay (WAPAY)?",
             "answer": "Un token 100% impulsado por la comunidad con utilidad en la industria B2B. Creado por Wadaboo (plataforma B2B) para que funcione dentro y fuera como medio de pago entre empresas, envios internacionales, préstamos, etc."
         },
         {
             "number": 2,
-            "question": "WPAY es el token de utilidad nativo que se utiliza para:",
+            "question": "WAPAY es el token de utilidad nativo que se utiliza para:",
             "answer": "<li> Comprar y vender productos entre empresas. <li> Wadaboo ganó su comisión a las empresas que publican en su plataforma. <li> Las empresas pueden hacer compras internacionales. <li> Las empresas pueden pedir prestamos."
         },
         {
             "number": 3,
-            "question": "¿Cuántas monedas WPAY hay en circulación?",
+            "question": "¿Cuántas monedas WAPAY hay en circulación?",
             "answer": "Se lanzaron 200 Billones de tokens. El 50% se liberó en Pacakeswap para que los inversionistas puedan comprarlo. Se liberará el 20% más en otros intercambios descentralizados y centralizados. El 24% lo tendrá una billetera que sería manejada por Wadaboo.com para que las empresas puedan hacer transacciones dentro de la plataforma, donde los fondos se utilizarían principalmente en marketing, comisiones de vendedores, legales y contables, y la mitad se guardaría como reserva de capital. El 6% restante se reparte entre los desarrolladores."
         },
         {
@@ -111,13 +114,13 @@
         },
         {
             "number": 5,
-            "question": "¿Dónde puedo comprar Wadapay (WPAY)?",
-            "answer": "WPAY se puede comprar actualmente en Pancakeswap y se van a ir incorporando nuevos intercambios."
+            "question": "¿Dónde puedo comprar Wadapay (WAPAY)?",
+            "answer": "WAPAY se puede comprar actualmente en Pancakeswap y se van a ir incorporando nuevos intercambios."
         },
         {
             "number": 6,
             "question": "¿Qué hace que Wadapay sea único?",
-            "answer": "WPAY tiene un muy buen proyecto detrás, que se llama Wadaboo, la plataforma central B2B, de subastas inversas para automatizar y optimizar las compras corporativas. En este momento está activa en Argentina, y tiene su empresa legal constituida en Buenos Aires, Argentina a nombre de Wadaboo SAS. <br> La criptomoneda nativa de Wadaboo (WPAY) funciona como medio de pago. Además, Wadaboo va a ir expandiendo sus operaciones en varios países y las empresas van a ir adoptando WPAY como medio de transacción."
+            "answer": "WAPAY tiene un muy buen proyecto detrás, que se llama Wadaboo, la plataforma central B2B, de subastas inversas para automatizar y optimizar las compras corporativas. En este momento está activa en Argentina, y tiene su empresa legal constituida en Buenos Aires, Argentina a nombre de Wadaboo SAS. <br> La criptomoneda nativa de Wadaboo (WAPAY) funciona como medio de pago. Además, Wadaboo va a ir expandiendo sus operaciones en varios países y las empresas van a ir adoptando WAPAY como medio de transacción."
         }],
         "questions_wadaboo" : [{
             "number": 1,
@@ -220,7 +223,7 @@
         },
         "useful-links": {
             "title": "Links útiles",
-            "buy-wpay": "Comprar WPAY",
+            "buy-wpay": "Certificado rugpull",
             "graphic": ""
         },
         "quick-access": "Accesos rápidos",

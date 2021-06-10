@@ -23,7 +23,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box complete">
+                            <div class="timeline_box current">
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item2.date") }}</h6>
@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box complete">
+                            <div class="timeline_box">
                             <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item3.date") }}</h6>
@@ -41,18 +41,16 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box current">
-                            <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
+                            <div class="timeline_box">
+                            <div class="timeline_inner">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item4.date") }}</h6>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description1") }}</li>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description2") }}</li>
-                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description3") }}</li>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item4.description") }} </p>
                             </div>
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box">
+                            <div class="timeline_box ">
                             <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item5.date") }}</h6>

@@ -29,8 +29,8 @@
                                     >{{ language.flag }}</option>
                                 </select>
                         </li>
-                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="btn btn-default btn-radius page-scroll" href="https://charts.bogged.finance/?token=0xEE1e22DB567897bB401311B79030344602EABE47" target="_blank">{{ $t("header.graphic")}}</a></li>
-                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="btn btn-default btn-radius page-scroll" href="#" target="_blank">{{ $t("header.contract")}}</a></li>
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="btn btn-default btn-radius page-scroll" href="https://poocoin.app/tokens/0xc0b535b51500eb20b1c95e9cc35ab8b2ab89a28f" target="_blank">{{ $t("header.graphic")}}</a></li>
+                        <li class="animation" data-animation="fadeInDown" data-animation-delay="1.8s"><a class="btn btn-default btn-radius page-scroll" href="https://bscscan.com/token/0xc0b535b51500eb20b1c95e9cc35ab8b2ab89a28f" target="_blank">{{ $t("header.contract")}}</a></li>
                     </ul>
                 </div>
             </nav>

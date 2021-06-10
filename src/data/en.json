@@ -14,11 +14,11 @@
         "start-message": "is an innovative payment network for companies and entrepreneurs ",
         "start-subtitle": "A native Wadaboo coin designed for entrepreneurs",
         "what-is-wadaboo": "What isWadaboo?",
-        "buy-tokens": "Buy tokens",
+        "buy-tokens": "How to participate",
         "total-created": "Total created",
-        "start-sell": "Start sale",
-        "date-start-sell": "2021-05-20",
-        "hour-start-sell": "(12:00)"
+        "start-sell": "Start of seed phase (Pre-Ido)",
+        "date-start-sell": "2021-06-15",
+        "hour-start-sell": "12:00 (GMT-3)"
     },
     "about": {
         "title-about": "About Wadaboo",
@@ -38,40 +38,43 @@
         },
         "card3": {
             "title": "LOANS",
-            "subtitle" : "In the near future, companies will be able to take loans in WPAY for the purchase of machinery, products or expansion."
+            "subtitle" : "In the near future, companies will be able to take loans in WAPAY for the purchase of machinery, products or expansion."
         }
     },
     "roadmap": {
         "title": "Roadmap",
         "item1": {
-            "date": "May 6, 2021",
-            "description": "200MM WPAY is created"
+            "date": "June 9, 2021",
+            "description": "200,000,000,000 WAPAY  are created (Enhanced version of WPAY)"
         },
         "item2": {
-            "date": "May 14, 2021",
-            "description": "WPAY is listed on Pancakeswap"
+            "date": "June 15, 2021",
+            "description": "Seed phase begins (PRE-IDO)"
         },
         "item3": {
-            "date": "May 20, 2021",
-            "description": "Wadapay begins marketing in the different channels"
+            "date": "July 5th, 2021",
+            "description": "Pre-sale begins (IDO or ILO)"
         },
         "item4": {
-            "date": "Q3 2021",
-            "description1": "Wadaboo invests in marketing Argentina",
-            "description2": "Wadapay integration with Wadaboo",
-            "description3": "WPAY is listed on Hotbit, Gate.io, and Poloniex"
+            "date": "July 12, 2021",
+            "description": "WAPAY listed on Pancakeswap with good liquidity"
         },
         "item5": {
+            "date": "Q3 2021",
+            "description1": "Wadaboo invests in marketing Argentina",
+            "description2": "Integration of Wadapay with Wadaboo"
+        },
+        "item6": {
             "date": "Q4 2021 – Q1 2022",
             "description1": "Wadaboo opens operations in Chile",
             "description2": "Wadaboo invests in marketing Chile"
         },
-        "item6": {
+        "item7": {
             "date": "Q2 2022 – Q3 2022",
             "description1": "We try to open on other exchanges",
             "description2": "Wadaboo opens operations in Colombia and Brazil"
         },
-        "item7": {
+        "item8": {
             "date": "Q4 2022 – Q1 2023",
             "description1": "Wadaboo opens operations in Mexico, Spain and the United States",
             "description2": "We invest heavily in marketing and advertising in these countries"
@@ -91,17 +94,17 @@
         "title": "FAQ",
         "questions_wadapay": [{
             "number": 1,
-            "question": "What is Wadapay (WPAY)?",
+            "question": "What is Wadapay (WAPAY)?",
             "answer": "A 100% community-driven token with utility in the B2B industry. Created by Wadaboo (B2B platform) to work inside and outside as a means of payment between companies, international shipments, loans, etc."
         },
         {
             "number": 2,
-            "question": "WPAY is the native utility token used for:",
+            "question": "WAPAY is the native utility token used for:",
             "answer": "<li> Buy and sell products between companies. <li> Wadaboo earned its commission from companies that publish on its platform. <li> Companies can make international purchases. <li> Businesses can borrow."
         },
         {
             "number": 3,
-            "question": "How many WPAY coins are there in circulation?",
+            "question": "How many WAPAY coins are there in circulation?",
             "answer": "200 Billion tokens were launched. 50% was released on Pacakeswap so investors can buy it. 20% more will be released on other decentralized and centralized exchanges. 24% will have a wallet that would be managed by Wadaboo.com so that companies can make transactions within the platform, where the funds would be used mainly in marketing, seller commissions, legal and accounting, and half would be kept as a reserve capital. The remaining 6% is shared between developers."
         },
         {
@@ -111,13 +114,13 @@
         },
         {
             "number": 5,
-            "question": "Where can I buy Wadapay (WPAY)?",
-            "answer": "WPAY is currently available for purchase on Pancakeswap and new exchanges will be added."
+            "question": "Where can I buy Wadapay (WAPAY)?",
+            "answer": "WAPAY is currently available for purchase on Pancakeswap and new exchanges will be added."
         },
         {
             "number": 6,
             "question": "What makes Wadapay unique?",
-            "answer": "WPAY has a very good project behind it, which is called Wadaboo, the central B2B platform for reverse auctions to automate and optimize corporate purchases. It is currently active in Argentina, and has its legal company incorporated in Buenos Aires, Argentina under the name of Wadaboo SAS. <br> Wadaboo's native cryptocurrency (WPAY) works as a means of payment. In addition, Wadaboo will be expanding its operations in several countries and companies will be adopting WPAY as a means of transaction."
+            "answer": "WAPAY has a very good project behind it, which is called Wadaboo, the central B2B platform for reverse auctions to automate and optimize corporate purchases. It is currently active in Argentina, and has its legal company incorporated in Buenos Aires, Argentina under the name of Wadaboo SAS. <br> Wadaboo's native cryptocurrency (WAPAY) works as a means of payment. In addition, Wadaboo will be expanding its operations in several countries and companies will be adopting WAPAY as a means of transaction."
         }],
         "questions_wadaboo" : [{
             "number": 1,
@@ -220,7 +223,7 @@
         },
         "useful-links": {
             "title": "Useful links",
-            "buy-wpay": "Buy WPAY",
+            "buy-wpay": "Rugpull certificate",
             "graphic": ""
         },
         "quick-access": "Quick access",

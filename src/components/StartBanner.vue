@@ -19,8 +19,8 @@
                     <div class="banner_inner token_gradiant position-relative">
                         <div class="tk_countdown transparent_bg token_bg token_circle text-center animation" data-animation="fadeIn" data-animation-delay="1.1s">
                             <div class="banner_text tk_counter_inner">
-                                <div class="tk_countdown_time p-0 transparent_bg box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1.2s" data-time="2021/05/20 00:00:00"></div>
-                                <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xEE1e22DB567897bB401311B79030344602EABE47&inputCurrency=BNB" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">{{ $t("start-banner.buy-tokens")}}<i class="ion-ios-arrow-thin-right"></i></a>
+                                <div class="tk_countdown_time p-0 transparent_bg box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1.2s" data-time="2021/06/15 12:00:00"></div>
+                                <a href="https://forms.gle/Zjrk3VvePqQi7gkr5" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">{{ $t("start-banner.buy-tokens")}}<i class="ion-ios-arrow-thin-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -30,7 +30,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pl-2 pr-2">
                                     <div class="pr_box">
                                         <h6 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style="animation-delay: 0.2s; opacity: 1;">{{ $t("start-banner.total-created")}}:</h6>
-                                        <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style="animation-delay: 0.4s; opacity: 1;">200.000.000.000 Wadapay</p>
+                                        <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style="animation-delay: 0.4s; opacity: 1;">200.000.000.000 Wapay</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pl-2 pr-2">
@@ -47,7 +47,7 @@
                 <div class="vertical_social">
                     <ul class="list_none d-flex d-lg-block">
                         <li><a href="https://www.facebook.com/wadapaynet" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://t.me/wadapay" target="_blank"><i class="fa fa-telegram"></i></a></li>
+                        <li><a href="https://t.me/wadapaychat" target="_blank"><i class="fa fa-telegram"></i></a></li>
                         <li><a href="https://twitter.com/wadapay" target="_blank"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="https://www.reddit.com/r/Wadapay" target="_blank"><i class="fa fa-reddit"></i></a></li>
                     </ul>
