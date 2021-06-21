@@ -15,6 +15,8 @@
 
         <faq-wadapay></faq-wadapay>
 
+        <news-wadapay></news-wadapay>
+
     </div>
 </template>
 
@@ -26,6 +28,7 @@ import Timeline from './Timeline'
 import DistributionTokens from './DistributionTokens'
 import TeamWadapay from './Team/TeamWadapay'
 import FaqWadapay from './FAQ/FaqWadapay'
+import NewsWadapay from './News/NewsWadapay.vue'
 
 export default {
   name: 'app',
@@ -36,7 +39,8 @@ export default {
       Timeline,
       DistributionTokens,
       TeamWadapay,
-      FaqWadapay
+      FaqWadapay,
+      NewsWadapay
   }
 }
 </script>

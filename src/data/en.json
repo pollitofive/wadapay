@@ -193,6 +193,31 @@
             "answer": "If, due to force majeure, the purchase-sale operation could not be completed, and it had to be canceled, the interested party would have to send an email to atencion@wadaboo.com"
         }]
     },
+    "news": {
+        "title": "Latest news",
+        "button-read-more": "Read more",
+        "list":[{
+            "number": 1,
+            "title": "Una plataforma argentina de subastas inversas conjuga pagos con una criptomoneda propia",
+            "description": "Wadapay ya está cotizando y funciona dentro de Wadaboo",
+            "date": "28 MAY 2021",
+            "url": "https://es.cointelegraph.com/news/argentine-auction-platform-combines-payments-with-its-own-cryptocurrency?fbclid=IwAR39mFwSMHoydp5KXLOD3XF1_cphHPo0rI7DlPPTAgz4d6_3B8oCrKToct4"
+        },
+        {
+            "number": 2,
+            "title": "Wadapay ya está cotizando y funciona en Wadaboo",
+            "description": "Wadapay ya está cotizando y funciona en Wadaboo, se trata de una plataforma argentina de subastas inversas",
+            "date": "28 MAY 2021",
+            "url": "https://mundocripto.news/wadapay-ya-esta-cotizando-y-funciona-en-wadaboo/"
+        },
+        {
+            "number": 3,
+            "title": "Conocé a Wadaboo, la plataforma argentina de subastas que creó su propia criptomoneda",
+            "description": "Esta plataforma tiene como objetivo ayudar a pequeñas y medianas empresas a competir con firmas más grandes que pueden bajar los precios en las compras",
+            "date": "28 MAY 2021",
+            "url": "https://www.iproup.com/finanzas/23231-conoce-la-plataforma-de-subastas-argentina-con-su-criptomoneda"
+        }
+    ]},
     "team": {
         "title": "Team",
         "nicolas": {
