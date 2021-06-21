@@ -1,5 +1,5 @@
 <template>
-    <section class="blue_light_bg" data-bleed="-40" data-z-index="1" data-parallax="scroll">
+    <section id="news" class="blue_light_bg" data-bleed="-40" data-z-index="1" data-parallax="scroll">
         <div class="angle_top"></div>
         <div class="divider large_divider"></div>
         <div class="container">

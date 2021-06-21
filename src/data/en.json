@@ -5,6 +5,7 @@
         "roadmap": "Roadmap",
         "team": "Team",
         "faq": "FAQ",
+        "news": "News",
         "whitepaper": "Whitepaper",
         "graphic": "Chart",
         "contract": "Contract"
@@ -216,6 +217,13 @@
             "description": "Esta plataforma tiene como objetivo ayudar a pequeñas y medianas empresas a competir con firmas más grandes que pueden bajar los precios en las compras",
             "date": "28 MAY 2021",
             "url": "https://www.iproup.com/finanzas/23231-conoce-la-plataforma-de-subastas-argentina-con-su-criptomoneda"
+        },
+        {
+            "number": 4,
+            "title": "An Argentine reverse auction platform combines payments with its own cryptocurrency",
+            "description": "Wadaboo is a reverse auction platform that tries to automate purchasing processes in companies and make them more effective",
+            "date": "28 MAY 2021",
+            "url": "https://www.europeworldnews.com/an-argentine-reverse-auction-platform-combines-payments-with-its-own-cryptocurrency/"
         }
     ]},
     "team": {

@@ -9,6 +9,7 @@
                 </div>
                 <ul class="list_none blog_meta">
                     <li><a :href="latest.url" target="_blank"><i class="ion-android-time"></i> {{ latest.date }}</a></li>
+                    <li></li>
                 </ul>
             </div>
         </div>
