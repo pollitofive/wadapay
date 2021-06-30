@@ -79,7 +79,13 @@
             "date": "Q4 2022 – Q1 2023",
             "description1": "Wadaboo opens operations in Mexico, Spain and the United States",
             "description2": "We invest heavily in marketing and advertising in these countries"
+        },
+        "item9": {
+            "date": "Mid-late July",
+            "description1": "Pre-sale begins (IDO or ILO)",
+            "description2": "WAPAY listed on Pancakeswap with good liquidity"
         }
+
    },
    "distribution-tokens": {
        "card1": {
