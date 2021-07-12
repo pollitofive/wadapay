@@ -16,10 +16,12 @@
         "start-subtitle": "A native Wadaboo coin designed for entrepreneurs",
         "what-is-wadaboo": "What is Wadaboo?",
         "buy-tokens": "How to participate",
-        "total-created": "Total created",
-        "start-sell": "Start of seed phase (Pre-Ido)",
-        "date-start-sell": "2021-06-15",
-        "hour-start-sell": "12:00 (GMT-3)"
+        "begin": "ILO Begin",
+        "end": "ILO End",
+        "begin-date": "2021-07-26",
+        "end-date": "2021-08-02",
+        "begin-time": "15 PM UTC",
+        "end-time": "15 PM UTC"
     },
     "about": {
         "title-about": "About Wadaboo",

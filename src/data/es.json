@@ -16,10 +16,12 @@
         "start-subtitle": "Una moneda nativa de Wadaboo pensada para emprendedores",
         "what-is-wadaboo": "¿Que es Wadaboo?",
         "buy-tokens": "Comprar tokens",
-        "total-created": "Total creado",
-        "start-sell": "Inicio fase seed (Pre-Ido)",
-        "date-start-sell": "15/06/2021",
-        "hour-start-sell": "12:00 (GMT-3) PM"
+        "begin": "ILO Comienza",
+        "end": "ILO Termina",
+        "begin-date": "26/07/2021",
+        "end-date": "02/08/2021",
+        "begin-time": "15 PM UTC",
+        "end-time": "15 PM UTC"
     },
     "about": {
         "title-about": "Sobre Wadaboo",
