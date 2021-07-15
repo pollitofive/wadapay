@@ -20,7 +20,7 @@
                         <div class="tk_countdown transparent_bg token_bg token_circle text-center animation" data-animation="fadeIn" data-animation-delay="1.1s">
                             <div class="banner_text tk_counter_inner">
                                 <div class="tk_countdown_time p-0 transparent_bg box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1.2s" data-time="2021/07/26 12:00:00"></div>
-                                <a href="https://forms.gle/Zjrk3VvePqQi7gkr5" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">{{ $t("start-banner.buy-tokens")}}<i class="ion-ios-arrow-thin-right"></i></a>
+                                <a href="https://app.unicrypt.network/amm/pancake-v2/ilo/0x94f86302eC13D58893548B743E9e150a3a35e498" class="btn btn-default btn-radius animation" data-animation="fadeInUp" data-animation-delay="1.40s" target="_blank">{{ $t("start-banner.buy-tokens")}}<i class="ion-ios-arrow-thin-right"></i></a>
                             </div>
                         </div>
                     </div>

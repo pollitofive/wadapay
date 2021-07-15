@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg"> 
                 <router-link to="/" class="navbar-brand page-scroll animation" href="#home_section" data-animation="fadeInDown" data-animation-delay="1s"> 
-                    <img class="logo_light" src="../assets/img/logo.png" alt="logo" /> 
+                    <img class="logo_light" src="../assets/img/logo_1.png" alt="logo" /> 
                     <img class="logo_dark" src="../assets/img/logo_dark.png" alt="logo" /> 
                 </router-link>
                 <button class="navbar-toggler animation" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" data-animation="fadeInDown" data-animation-delay="1.1s"> 
