@@ -65,12 +65,14 @@
         "item5": {
             "date": "Q3 2021",
             "description1": "Wadaboo invierte en marketing Argentina",
-            "description2": "Integración de Wadapay con Wadaboo"
+            "description2": "Integración de Wadapay con Wadaboo",
+            "description3": "Empezamos el desarrollo de la billetera"
         },
         "item6": {
             "date": "Q4 2021 – Q1 2022",
-            "description1": "Wadaboo abre operaciones en Chile",
-            "description2": "Wadaboo invierte en marketing Chile"
+            "description1": "Lanzamos la tarjeta prepaga 'Wadapay Mastercard'",
+            "description2": "Wadaboo abre operaciones en Chile",
+            "description3": "Wadaboo invierte en marketing Chile"
         },
         "item7": {
             "date": "Q2 2022 – Q3 2022",
@@ -238,7 +240,15 @@
             "description": "Se trata de Wadaboo, una startup 100% local que vio la luz luego de un arduo proceso de desarrollo y ahora va por todo. Todos los detalles",
             "date": "03 JUL 2021",
             "url": "https://www.iproup.com/innovacion/21699-wadaboo-como-permite-que-pymes-compren-mejor"
+        },
+        {
+            "number": 6,
+            "title": "ILO: ¿Qué son y para qué sirven?",
+            "description": "Las Initial Coin Offering fueron el primer medio para encontrar financiamiento en el mundo cripto. Pero hubo casos de ICO falsas.",
+            "date": "18 JUL 2021",
+            "url": "https://www.ambito.com/opiniones/inversor/ilo-que-son-y-que-sirven-n5225195"
         }
+
     ]},
     "team": {
         "title": "Equipo",

@@ -48,6 +48,7 @@
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item5.date") }}</h6>
                                 <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item5.description1") }}</li>
                                 <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item5.description2") }}</li>
+                                <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item5.description3") }}</li>
                             </div>
                             </div>
                         </div>
@@ -58,6 +59,7 @@
                                     <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item6.date") }}</h6>
                                     <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item6.description1") }}</li>
                                     <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item6.description2") }}</li>
+                                    <li class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">{{ $t("roadmap.item6.description3") }}</li>
                                 </div>
                             </div>
                         </div>
