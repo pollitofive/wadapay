@@ -1,10 +1,10 @@
 {
     "header": {
-        "about": "Sobre wadapay",
+        "about": "Sobre...",
         "utility": "Utilidad",
         "roadmap": "Hoja de ruta",
         "team": "Equipo",
-        "faq": "Preguntas frecuentes",
+        "faq": "FAQ",
         "news": "Prensa",
         "whitepaper": "Whitepaper",
         "graphic": "Gráfico",
@@ -18,8 +18,8 @@
         "buy-tokens": "Comprar tokens",
         "begin": "ILO Comienza",
         "end": "ILO Termina",
-        "begin-date": "26/07/2021",
-        "end-date": "02/08/2021",
+        "begin-date": "30/08/2021",
+        "end-date": "06/09/2021",
         "begin-time": "15 PM UTC",
         "end-time": "15 PM UTC"
     },
