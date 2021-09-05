@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box current">
+                            <div class="timeline_box ">
                             <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item9.date") }}</h6>
@@ -42,7 +42,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="timeline_box ">
+                            <div class="timeline_box current">
                             <div class="timeline_inner" style="color: #ffffff;font-size: 12px;">
                                 <div class="timeline_circle"></div>
                                 <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">{{ $t("roadmap.item5.date") }}</h6>

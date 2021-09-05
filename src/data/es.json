@@ -15,13 +15,24 @@
         "start-message": "es una innovadora red de pagos para empresas y emprendedores ",
         "start-subtitle": "Una moneda nativa de Wadaboo pensada para emprendedores",
         "what-is-wadaboo": "¿Que es Wadaboo?",
-        "buy-tokens": "Comprar tokens",
-        "begin": "ILO Comienza",
-        "end": "ILO Termina",
-        "begin-date": "30/08/2021",
-        "end-date": "06/09/2021",
-        "begin-time": "15 PM UTC",
-        "end-time": "15 PM UTC"
+        "buy-tokens": "Comprar wapay",
+        "steps-title": "Pasos",
+        "steps": [{
+            "number": 1,
+            "step": "1 - Ir a <a href='https://pancakeswap.finance' target='_blank'>Pancakeswap.finance</a>, conectar la billetera."
+        },
+        {
+            "number": 2,
+            "step": "2 - Clickear en TRADE - EXCHANGE y seleccionar currency, copiar y pegar 0xc0b535b51500eb20b1c95e9cc35ab8b2ab89a28f"
+        },
+        {
+            "number": 3,
+                "step": "3 - Configurar el slippagge en 11%-12%"
+        },
+        {
+            "number": 4,
+            "step": "4 - Clickea en SWAP y confirma la transacción."
+        }]
     },
     "about": {
         "title-about": "Sobre Wadaboo",

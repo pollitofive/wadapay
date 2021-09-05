@@ -30,7 +30,7 @@
                         <h4 class="footer_title_s2 animation" data-animation="fadeInUp" data-animation-delay="0.2s">{{ $t("footer.useful-links.title") }}</h4>
                         <ul class="footer_link list_none">
                             <li class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"><a href="https://www.rugscreen.com/scan/certificate?tokenid=ea0e12615f" target="_blank">{{ $t("footer.useful-links.buy-wpay") }}</a></li>
-                            <li class="animation" data-animation="fadeInUp" data-animation-delay="0.3s"><a href="https://poocoin.app/tokens/0xc0b535b51500eb20b1c95e9cc35ab8b2ab89a28f" target="_blank">{{ $t("header.graphic") }}</a></li>
+                            <li class="animation" data-animation="fadeInUp" data-animation-delay="0.3s"><a href="https://www.dextools.io/app/bsc/pair-explorer/0xfc474095b2136e5348c704fc198a079a164562d2" target="_blank">{{ $t("header.graphic") }}</a></li>
                             <li class="animation" data-animation="fadeInUp" data-animation-delay="0.6s"><a href="https://wadaboo.com" target="_blank">Wadaboo</a></li>
                         </ul>
                     </div>
